@@ -16,7 +16,7 @@ website:
         href: https://linkedin.com/in/bracken-sant-70b76a192
 
   navbar:
-    background: primary
+    background: '#196675'
     search: true   
     right:
       - text: "Home"
