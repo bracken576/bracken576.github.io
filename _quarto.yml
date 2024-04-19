@@ -42,7 +42,7 @@ website:
   sidebar: 
     - title: "Data Cleansing"
       style: "docked"
-      background: light
+      background: '#196675'
       contents:
         - text: "Data Cleansing"
           file: cleansing.qmd
@@ -64,7 +64,7 @@ website:
         - text: "---"
     - title: "Data Exploration"
       style: "docked"
-      background: light
+      background: '#196675'
       contents:
         - text: "Data Exploration"
           file: exploration.qmd
@@ -86,7 +86,7 @@ website:
         - text: "---"
     - title: "Story Telling"
       style: "docked"
-      background: light
+      background: '#196675'
       contents:
         - text: "Story Telling"
           file: story_telling.qmd
@@ -108,7 +108,7 @@ website:
         - text: "---"
     - title: "Machine Learning"
       style: "docked"
-      background: light
+      background: '#196675'
       contents:
         - text: "Machine Learning"
           file: ml.qmd
@@ -130,7 +130,7 @@ website:
         - text: "---"
     - title: "Full Stack"
       style: "docked"
-      background: light
+      background: '#196675'
       contents:
         - text: "Full Stack"
           file: full_stack.qmd
@@ -152,7 +152,7 @@ website:
         - text: "---"
     - title: "Competition"
       style: "docked"
-      background: light
+      background: '#196675'
       contents:
         - text: "Competition"
           file: competition.qmd
