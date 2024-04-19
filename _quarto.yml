@@ -9,6 +9,7 @@ website:
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
+    background: '#196675'
     border: true
     left: "Bracken Sant 2024©"
     right: 
@@ -42,7 +43,7 @@ website:
   sidebar: 
     - title: "Data Cleansing"
       style: "docked"
-      background: '#196675'
+      background: light
       contents:
         - text: "Data Cleansing"
           file: cleansing.qmd
@@ -64,7 +65,7 @@ website:
         - text: "---"
     - title: "Data Exploration"
       style: "docked"
-      background: '#196675'
+      background: light
       contents:
         - text: "Data Exploration"
           file: exploration.qmd
@@ -86,7 +87,7 @@ website:
         - text: "---"
     - title: "Story Telling"
       style: "docked"
-      background: '#196675'
+      background: light
       contents:
         - text: "Story Telling"
           file: story_telling.qmd
@@ -108,7 +109,7 @@ website:
         - text: "---"
     - title: "Machine Learning"
       style: "docked"
-      background: '#196675'
+      background: light
       contents:
         - text: "Machine Learning"
           file: ml.qmd
@@ -130,7 +131,7 @@ website:
         - text: "---"
     - title: "Full Stack"
       style: "docked"
-      background: '#196675'
+      background: light
       contents:
         - text: "Full Stack"
           file: full_stack.qmd
@@ -152,7 +153,7 @@ website:
         - text: "---"
     - title: "Competition"
       style: "docked"
-      background: '#196675'
+      background: light
       contents:
         - text: "Competition"
           file: competition.qmd
